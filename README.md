@@ -1,11 +1,11 @@
 # algalog-API
-Um projeto de uma Api REST, utilizando as tecnologias Java, Maven, Spring Framework, JPA,Flyway, Model Mapper, Validation Groups, MYSQL e PostMan. \n
-API com métodos CRUD e não CRUD \n
-Projeto incentivado pela Algaworks no evento Mergulho Spring REST
+Um projeto de uma Api REST, utilizando as tecnologias Java, Maven, Spring Framework, JPA,Flyway, Model Mapper, Validation Groups, MYSQL e PostMan. <br />
+API com métodos CRUD e não CRUD <br />
+Projeto incentivado pela Algaworks no evento Mergulho Spring REST<br />
 
-Tecnologias necessárias:
-  Java 17
-  Maven
-  Spring
-  Flyway(para migrações)
-  PostMan(para Testes)
+Tecnologias necessárias: <br />
+  Java 17 <br />
+  Maven <br />
+  Spring <br />
+  Flyway(para migrações) <br />
+  PostMan(para Testes) <br />
